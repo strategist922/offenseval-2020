@@ -3,6 +3,7 @@
 ## Models
 - currently have binary logistic regression for subtask a
     - only evaluates on accuracy. Should include recall, precision, and f1 too
+    - try taking average of 5ish classifiers
 - try most common label as another baseline
 
 ## Datasets  
