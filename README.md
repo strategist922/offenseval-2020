@@ -1,6 +1,9 @@
 # [OffensEval 2020](https://sites.google.com/site/offensevalsharedtask/)
 
 ## Models
+- currently have binary logistic regression for subtask a
+    - only evaluates on accuracy. Should include recall, precision, and f1 too
+- try most common label as another baseline
 
 ## Datasets  
 
