@@ -3,7 +3,7 @@
 ## Models
 - currently have binary logistic regression for subtask a
     - only evaluates on accuracy. Should include recall, precision, and f1 too
-- try most common label as another baseline
+- training set: 4400 positives / 13240 examples, most common tag baseline = 66.77% accuracy
 
 ## Datasets  
 
