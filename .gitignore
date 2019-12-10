@@ -3,3 +3,4 @@
 data/glove.twitter.27B/
 data/jigsaw/
 __pycache__/
+models/
