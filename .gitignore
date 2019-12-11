@@ -1,3 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
-data/*
+data/glove.twitter.27B/
+data/glove.twitter.27B.zip
+data/jigsaw/
+__pycache__/
+models/
